@@ -116,6 +116,9 @@
 * [RestTemplate(2), xml -> json 변환 후, jackson을 이용하여 DTO와 mapping](https://junghyungil.tistory.com/87?category=892281)
 * [Filter와 Interceptor](https://junghyungil.tistory.com/123?category=892281)
 
+- 인프런, 스프링 핵심원리 기본편 정리
+  - [DI, IOC, Bean, Context 등등](https://www.notion.so/2815624d66fa46f98aed3a9184523499)
+  
 ### Junit5
 * [단위테스트 & 통합테스트](https://junghyungil.tistory.com/85?category=892281)
 * [단위테스트시 좀 더 정확한 테스트를 위하여 고급 기술 ArgumenMatcher](https://junghyungil.tistory.com/51?category=892281)
