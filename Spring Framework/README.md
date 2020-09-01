@@ -12,6 +12,9 @@
 * [RestTemplate(2), xml -> json 변환 후, jackson을 이용하여 DTO와 mapping](https://junghyungil.tistory.com/87?category=892281)
 * [Filter와 Interceptor](https://junghyungil.tistory.com/123?category=892281)
 
+- 인프런, 스프링 핵심원리 기본편 정리
+  - [DI, IOC, Bean, Context 등등](https://www.notion.so/2815624d66fa46f98aed3a9184523499)
+
 ### Junit5
 
 * [단위테스트 & 통합테스트](https://junghyungil.tistory.com/85?category=892281)
@@ -23,8 +26,6 @@
 * [예외처리 할 때, controller 전역에 적용되는 ControllerAdvice annotation -> 2. @ControllerAdvice](https://junghyungil.tistory.com/57?category=892281)
 * [Junit4 -> Junit5 (목적(쓰임새)은 같지만 4 -> 5 로직 비교)](https://junghyungil.tistory.com/78?category=892281)
 
-- 인프런, 스프링 핵심원리 기본편 정리
-  - [DI, IOC, Bean, Context 등등](https://www.notion.so/2815624d66fa46f98aed3a9184523499)
   
 - 인프런, 더 자바
     - [Junit5, Mockito, 도커와테스트 및 성능테스트 정리](https://www.notion.so/e905531d8b4248feabeb8958cb976481)
