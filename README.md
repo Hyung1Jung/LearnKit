@@ -180,6 +180,7 @@
 ## 📄 OS 🔍
 **[repository 보기](https://github.com/Hyung1Jung/database-network-os-infra)**
 
+* [인터럽트(interrupt)](https://junghyungil.tistory.com/130?category=892324)
 * [문맥교환(context switching)](https://junghyungil.tistory.com/105?category=892275)
 
 --- 
