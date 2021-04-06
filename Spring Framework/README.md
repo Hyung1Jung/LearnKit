@@ -32,7 +32,6 @@
     - [출처](https://www.inflearn.com/course/the-java-application-test#curriculum)
     
 ### AOP
-
 * [Spring AOP와 AspectJ](https://junghyungil.tistory.com/111?category=892281)
 * [Spring AOP(Aspect)를 이용한 메서드 시간측정 및 @LogExecutionTime, JoinPoint 활용 ](https://junghyungil.tistory.com/56?category=8922)
 
