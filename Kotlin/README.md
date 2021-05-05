@@ -8,6 +8,13 @@ Java로 작성된 프로젝트에 점진적으로 Kotlin을 도입한다.
 - Gradle 멀티 모듈을 활용해서 연습하는 분야에 필요한 의존성만을 모듈에 추가한다.
 - 공부한 것들 README.md에 기록
 
+## 기본 개념 정리
+- [기본 문법, 변수와 자료형, 함수, 연산자 개념 정리](https://github.com/Hyung1Jung/kotlin/blob/master/basic/src/me/hyungil/%EA%B0%9C%EC%9A%94%20%EB%B0%8F%20%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95.md)
+- [제어문 -> IF문, When, 반복문, break countinue return](https://github.com/Hyung1Jung/kotlin/blob/master/basic/src/me/hyungil/%EC%A0%9C%EC%96%B4%EB%AC%B8.md)
+- [객체지향 -> 생성자, 상속, 모듈, 접근제한자, Property, 지연초기화, Overriding, Any, this와 super, 추상클래스, 인터페이스](https://github.com/Hyung1Jung/kotlin/blob/master/basic/src/me/hyungil/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
+- [kotlin의 다양한 클래스 -> Companion, DataClass, Generic, 중첩클래스, 형변환, null처리 및 안전성을 위한 형변환, 열거형, Sealed Class, 리플렉션, 연산자 오버로딩](https://github.com/Hyung1Jung/kotlin/blob/master/basic/src/me/hyungil/kotlin%EC%9D%98%20%EB%8B%A4%EC%96%91%ED%95%9C%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+- [함수형 프로그래밍 -> 익명, 인라인, 확장, Infix, 고차 함수](https://github.com/Hyung1Jung/kotlin/blob/master/basic/src/me/hyungil/%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
+
 ## 코틀린 공식 레퍼런스 공부 기록
 
 <details>
