@@ -149,6 +149,9 @@
 * [Spring AOP와 AspectJ](https://junghyungil.tistory.com/111?category=892281)
 * [Spring AOP(Aspect)를 이용한 메서드 시간측정 및 @LogExecutionTime, JoinPoint 활용 ](https://junghyungil.tistory.com/56?category=8922)
 
+### Gradle 관련
+* [implementation와 api(compile)](https://junghyungil.tistory.com/148?category=892281)
+
 ### 스프링을 위한 객체지향
 * [스프링을 위한 자바 객체 지향의 원리와 이해를 읽으며 중요한 것들 위주로 정리](https://junghyungil.tistory.com/97?category=892275)
 * [객체 지향 설계 5원칙 - SOLID](https://junghyungil.tistory.com/98?category=892275)
