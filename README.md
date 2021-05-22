@@ -52,6 +52,10 @@
 * [ArrayDeque](https://junghyungil.tistory.com/116?category=892275)
 * [블로킹 큐(Blocking Queues)](https://junghyungil.tistory.com/128?category=892275)
 
+
+### 싱글톤
+[싱글톤 패턴은 객체가 단 1개만 생성되는 것을 보장할까? 및 자바에서 싱글톤을 구현하는 패턴들](https://junghyungil.tistory.com/150?category=892275)
+
 ### 쓰레드
 * [쓰레드](https://junghyungil.tistory.com/68?category=892275)
 * [멀티 쓰레드](https://junghyungil.tistory.com/69?category=892275)
