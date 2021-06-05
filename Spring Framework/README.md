@@ -48,3 +48,4 @@
 * [1장, 오브젝트와 의존관계](https://github.com/Hyung1Jung/spring-study-record/blob/master/toby-of-spring/1.%20%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8%EC%99%80%20%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84.md)
 * [2장, 테스트](https://github.com/Hyung1Jung/spring-study-record/blob/master/toby-of-spring/2.%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
 * [3장, 템플릿](https://github.com/Hyung1Jung/spring-study-record/blob/master/toby-of-spring/3.%20%ED%85%9C%ED%94%8C%EB%A6%BF.md)
+* [4장, 예외처리](https://github.com/Hyung1Jung/spring-study-record/blob/master/toby-of-spring/4.%20%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
