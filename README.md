@@ -115,7 +115,7 @@
 
 - Kotlin + SptringBoot 
   - [kotlin에서 Lombok가 필요할까?](https://junghyungil.tistory.com/157?category=953012)
-
+  - [유지보수하기 좋은 코드란? 및 확장성을 고려한 설계](https://junghyungil.tistory.com/158?category=953012)
 ---
 
 ## 📄 Spring Framework 🔍
