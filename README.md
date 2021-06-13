@@ -113,6 +113,9 @@
 - [코틀린 공식 레퍼런스 공부](https://github.com/Hyung1Jung/kotlin#%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B3%B5%EC%8B%9D-%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4-%EA%B3%B5%EB%B6%80-%EA%B8%B0%EB%A1%9D)
 - [코틀린 인 액션](https://github.com/Hyung1Jung/kotlin#%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%9D%B8-%EC%95%A1%EC%85%98)
 
+- Kotlin + SptringBoot 
+  - [kotlin에서 Lombok가 필요할까?](https://junghyungil.tistory.com/157?category=953012)
+
 ---
 
 ## 📄 Spring Framework 🔍
