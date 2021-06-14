@@ -52,5 +52,5 @@
 * [2장, 테스트](https://github.com/Hyung1Jung/spring-study-record/blob/master/toby-of-spring/2.%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
 * [3장, 템플릿](https://github.com/Hyung1Jung/spring-study-record/blob/master/toby-of-spring/3.%20%ED%85%9C%ED%94%8C%EB%A6%BF.md)
 * [4장, 예외처리](https://github.com/Hyung1Jung/spring-study-record/blob/master/toby-of-spring/4.%20%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
-* [5장, 서비스와 추상회](https://github.com/Hyung1Jung/spring-study-record/commit/82a3f2745ce48c5e3a5a06bcd35e61a021a78f64)
+* [5장, 서비스와 추상회](https://github.com/Hyung1Jung/spring-study-record/blob/master/toby-of-spring/5.%20%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80%20%EC%B6%94%EC%83%81%ED%99%94.md)
 * [6장, AOP](https://github.com/Hyung1Jung/spring-study-record/blob/master/toby-of-spring/6.%20AOP.md)
