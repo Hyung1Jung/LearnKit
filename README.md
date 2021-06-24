@@ -197,7 +197,8 @@
 
 * Redis
   * [Redis(Remote dictionary server)란?](https://junghyungil.tistory.com/162?category=900222)
-  
+  * [Redis와 memcached 비교](https://junghyungil.tistory.com/165?category=892328)
+    
 ---
 
 ## 📄 Network 🔍
