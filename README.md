@@ -136,6 +136,8 @@
 * [Profile](https://junghyungil.tistory.com/159?category=892281)
 * [log4j vs Lockback vs log4j2, 프로젝트에 무엇을 적용하는게 좋을까?](https://junghyungil.tistory.com/160?category=892281)
 * [Log4j2의 Log Level과 성능 향상에 관하여](https://junghyungil.tistory.com/161?category=892281)
+* [세션 불일치 문제가 발생하는 이유와 세션 불일치를 해결하는 법](https://junghyungil.tistory.com/163?category=900222)
+
 
 - 인프런, 스프링 핵심원리 기본편 정리
   - [DI, IOC, Bean, Context 등등](https://www.notion.so/2815624d66fa46f98aed3a9184523499)
