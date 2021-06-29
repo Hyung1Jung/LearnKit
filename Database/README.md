@@ -8,4 +8,5 @@
 * Redis
   * [Redis(Remote dictionary server)란?](https://junghyungil.tistory.com/162?category=900222)
   * [Redis와 memcached 비교](https://junghyungil.tistory.com/165?category=892328)
-    
+  * [Redis(Remote dictionary server)란?](https://junghyungil.tistory.com/162)
+  * [Redis 연동하기 및 Spring Boot Redis Docs 살펴보기](https://junghyungil.tistory.com/166)
