@@ -136,8 +136,6 @@
 * [Profile](https://junghyungil.tistory.com/159?category=892281)
 * [log4j vs Lockback vs log4j2, 프로젝트에 무엇을 적용하는게 좋을까?](https://junghyungil.tistory.com/160?category=892281)
 * [Log4j2의 Log Level과 성능 향상에 관하여](https://junghyungil.tistory.com/161?category=892281)
-* [세션 불일치 문제가 발생하는 이유와 세션 불일치를 해결하는 법](https://junghyungil.tistory.com/163?category=900222)
-
 
 - 인프런, 스프링 핵심원리 기본편 정리
   - [DI, IOC, Bean, Context 등등](https://www.notion.so/2815624d66fa46f98aed3a9184523499)
@@ -226,6 +224,20 @@
 * [커널 수준의 쓰레드 vs 사용자 수준의 쓰레드](https://junghyungil.tistory.com/132?category=892324)
 * [프로세스 간 통신(Inter-Process Communication,IPC)](https://junghyungil.tistory.com/146?category=892324)
 --- 
+
+## 📄 infra 🔍
+**[repository 보기](https://github.com/Hyung1Jung/LearnKit/tree/master/Infra)**
+
+- [스케일 업 vs 스케일 아웃](https://junghyungil.tistory.com/151?category=952148)
+* [세션 불일치 문제가 발생하는 이유와 세션 불일치를 해결하는 법](https://junghyungil.tistory.com/163?category=900222)
+
+지속적 통합 - CI를 이용한 애자일 - 젠킨스 CI 구축
+- [지속적 통합의 개념 - 애자일 방법론과 폭포수 모델](https://junghyungil.tistory.com/170)
+- [CI란?, 어떤 CI 도구를 사용할까?](https://junghyungil.tistory.com/167)
+- [젠킨스란? 젠킨스를 이용해 CI 자동화하기, 슬랙 연동](https://junghyungil.tistory.com/168)
+- [젠킨스와 슬랙 연동하여 알람받기](https://junghyungil.tistory.com/169)
+
+---
 
 ## 📄 IntellJ TIP 🔍
 * [Translator Plugins (IntellJ에서 한 -> 영 번역)](https://junghyungil.tistory.com/63?category=905725)
