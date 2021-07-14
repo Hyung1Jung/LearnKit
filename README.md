@@ -85,6 +85,7 @@
 
 ### 성능 튜닝
 * [반복문? 알고 쓰자!](https://junghyungil.tistory.com/65?category=892275)
+* [서버를 어떻게 세팅해야 할까?](https://junghyungil.tistory.com/172)
 
 ### 자바 객체 지향의 원리와 이해
 * [스프링을 위한 자바 객체 지향의 원리와 이해를 읽으며 중요한 것들 위주로 정리](https://junghyungil.tistory.com/97?category=892275)
