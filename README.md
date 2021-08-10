@@ -189,6 +189,8 @@
 ## 📄 DATABASE 🔍
 **[repository 보기](https://github.com/Hyung1Jung/database-network-os-infra)**
 
+* [트레픽 분산을 위한 Master/Slave DataSource 동적 라우팅 설정](https://junghyungil.tistory.com/177)
+
 * Real MySQL
   * [Chapter03](https://github.com/Hyung1Jung/database-network-os-infra/blob/master/src/database/real-mysql/chapter03/README.md)
   * [Chapter04](https://github.com/Hyung1Jung/database-network-os-infra/blob/master/src/database/real-mysql/chapter04/README.md)
@@ -200,6 +202,7 @@
   * [Redis와 memcached 비교](https://junghyungil.tistory.com/165?category=892328)
   * [Redis(Remote dictionary server)란?](https://junghyungil.tistory.com/162)
   * [Redis 연동하기 및 Spring Boot Redis Docs 살펴보기](https://junghyungil.tistory.com/166)    
+  
 ---
 
 ## 📄 Network 🔍
