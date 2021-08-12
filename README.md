@@ -190,6 +190,7 @@
 **[repository 보기](https://github.com/Hyung1Jung/database-network-os-infra)**
 
 * [트레픽 분산을 위한 Master/Slave DataSource 동적 라우팅 설정](https://junghyungil.tistory.com/177)
+* [외래키(Foreign Key)와 데드락(DeadLock)](https://junghyungil.tistory.com/178)
 
 * Real MySQL
   * [Chapter03](https://github.com/Hyung1Jung/database-network-os-infra/blob/master/src/database/real-mysql/chapter03/README.md)
