@@ -8,3 +8,8 @@
 - [CI란?, 어떤 CI 도구를 사용할까?](https://junghyungil.tistory.com/167)
 - [젠킨스란? 젠킨스를 이용해 CI 자동화하기, 슬랙 연동](https://junghyungil.tistory.com/168)
 - [젠킨스와 슬랙 연동하여 알람받기](https://junghyungil.tistory.com/169)
+
+성능 테스트
+- [리눅스 서버에 ngrinder 설치하기](https://junghyungil.tistory.com/175)
+- [nGrinder를 이용해 Login API 성능 테스트 후 Scale-Out을 적용하여 성능 개선 - (1)](https://junghyungil.tistory.com/175)
+- [nGrinder를 이용해 Login API 성능 테스트 후 Scale-Up을 적용하여 성능 개선 - (2)](https://junghyungil.tistory.com/181)
