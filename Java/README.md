@@ -28,9 +28,9 @@
 
 ### 콜렉션
 * [Collection](https://junghyungil.tistory.com/90?category=892275)
-    * [List, array vs arrayList, arrayList vs LinkedList](https://junghyungil.tistory.com/91?category=892275)
-    * [Set, Queue](https://junghyungil.tistory.com/92?category=892275)
-    * [Map 및 HashTable vs HashMap, LoadFactor, bucket에 관해 자세히](https://junghyungil.tistory.com/93?category=892275)
+  * [List, array vs arrayList, arrayList vs LinkedList](https://junghyungil.tistory.com/91?category=892275)
+  * [Set, Queue](https://junghyungil.tistory.com/92?category=892275)
+  * [Map 및 HashTable vs HashMap, LoadFactor, bucket에 관해 자세히](https://junghyungil.tistory.com/93?category=892275)
 * [ArrayList 깊은 복사, 얕은 복사](https://junghyungil.tistory.com/category/Java)
 * [ArrayList는 어떻게 동적으로 사이즈가 늘어나는가? add() flow(동작 방식)](https://junghyungil.tistory.com/96?category=892275)
 * [PriorityQueue(우선순위 큐)와 용량 및 동작방식](https://junghyungil.tistory.com/102?category=892275)
@@ -43,6 +43,7 @@
 [싱글톤 패턴은 객체가 단 1개만 생성되는 것을 보장할까? 및 자바에서 싱글톤을 구현하는 패턴들](https://junghyungil.tistory.com/150?category=892275)
 
 ### 쓰레드
+* [자바 병렬 프로그래밍 - 병렬 처리의 중요성](https://junghyungil.tistory.com/198)
 * [쓰레드](https://junghyungil.tistory.com/68?category=892275)
 * [멀티 쓰레드](https://junghyungil.tistory.com/69?category=892275)
 * [쓰레드들에 대한 변수의 변경의 가시성을 보장하는 volatile 키워드](https://junghyungil.tistory.com/99?category=892275)
@@ -54,8 +55,8 @@
 ### 람다, 옵셔널, 스트림
 * [람다식](https://junghyungil.tistory.com/39?category=892275)
 * [스트림, 람다를 활용할 수 있는 기술중 하나인 스트림](https://junghyungil.tistory.com/40?category=892275)
-    * [스트림 API 3가지 매칭메소드](https://junghyungil.tistory.com/48?category=892275)
-    * [스트림 메서드 정리](https://junghyungil.tistory.com/49?category=892275)
+  * [스트림 API 3가지 매칭메소드](https://junghyungil.tistory.com/48?category=892275)
+  * [스트림 메서드 정리](https://junghyungil.tistory.com/49?category=892275)
 * [옵셔널](https://junghyungil.tistory.com/44?category=892275)
 
 ### 디자인 패턴
@@ -70,6 +71,7 @@
 
 ### 성능 튜닝
 * [반복문? 알고 쓰자!](https://junghyungil.tistory.com/65?category=892275)
+* [서버를 어떻게 세팅해야 할까?](https://junghyungil.tistory.com/172)
 
 ### 자바 객체 지향의 원리와 이해
 * [스프링을 위한 자바 객체 지향의 원리와 이해를 읽으며 중요한 것들 위주로 정리](https://junghyungil.tistory.com/97?category=892275)
@@ -77,8 +79,8 @@
 
 ### 이펙티브 자바
 * 2장, 객체 생성과 파괴
-    * [아이템 1 : 생성자 대신 정적 팩터리 메서드를 고려하라](https://github.com/Hyung1Jung/JAVA/tree/master/src/effectiveJava/chapter02/item01)
-    * [아이템 2 : 생성자에 매개변수가 많으면 빌더를 고려하라](https://github.com/Hyung1Jung/JAVA/tree/master/src/effectiveJava/chapter02/item02)
+  * [아이템 1 : 생성자 대신 정적 팩터리 메서드를 고려하라](https://github.com/Hyung1Jung/JAVA/tree/master/src/effectiveJava/chapter02/item01)
+  * [아이템 2 : 생성자에 매개변수가 많으면 빌더를 고려하라](https://github.com/Hyung1Jung/JAVA/tree/master/src/effectiveJava/chapter02/item02)
 
 ### 그 외
 * [재귀호출](https://junghyungil.tistory.com/16?category=892275)

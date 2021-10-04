@@ -53,7 +53,6 @@
 * [ArrayDeque](https://junghyungil.tistory.com/116?category=892275)
 * [블로킹 큐(Blocking Queues)](https://junghyungil.tistory.com/128?category=892275)
 
-
 ### 싱글톤
 [싱글톤 패턴은 객체가 단 1개만 생성되는 것을 보장할까? 및 자바에서 싱글톤을 구현하는 패턴들](https://junghyungil.tistory.com/150?category=892275)
 
@@ -66,7 +65,6 @@
 * [Fork Join Pool](https://junghyungil.tistory.com/103?category=892275)
 * [64비트는 왜 원자적이지 않을까? 및 연산의 원자성에 관한 고찰](https://junghyungil.tistory.com/126?category=892275)
 * [Blocking I/O, Non-Blocking I/O(NIO)와 대용량 트레픽](https://junghyungil.tistory.com/131?category=892275)
-
 
 ### 람다, 옵셔널, 스트림
 * [람다식](https://junghyungil.tistory.com/39?category=892275)
