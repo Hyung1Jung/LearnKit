@@ -13,3 +13,6 @@
 - [리눅스 서버에 ngrinder 설치하기](https://junghyungil.tistory.com/175)
 - [nGrinder를 이용해 Login API 성능 테스트 후 Scale-Out을 적용하여 성능 개선 - (1)](https://junghyungil.tistory.com/175)
 - [nGrinder를 이용해 Login API 성능 테스트 후 Scale-Up을 적용하여 성능 개선 - (2)](https://junghyungil.tistory.com/181)
+
+MSA(MicroService Architecture)
+- [MSA(MicroService Architecture)란 무엇인가?](https://junghyungil.tistory.com/188)
