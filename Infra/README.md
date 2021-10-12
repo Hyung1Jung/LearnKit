@@ -17,3 +17,4 @@
 MSA(MicroService Architecture)
 - [MSA(MicroService Architecture)란 무엇인가?](https://junghyungil.tistory.com/188)
 - [Spring cloud 적용에 사용되는 컴포넌트 중 하나인 Eureka](https://junghyungil.tistory.com/193)
+- [MSA의 BFF 패턴, 외부 구성 저장소 패턴, 인증 인가 패턴이란?](https://junghyungil.tistory.com/194)
