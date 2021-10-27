@@ -254,6 +254,10 @@
 MSA(MicroService Architecture)
 - [MSA(MicroService Architecture)란 무엇인가?](https://junghyungil.tistory.com/188)
 
+
+Kafka
+- [Apache Kafka는 어떤 방식으로 동작할까?](https://junghyungil.tistory.com/190)
+
 ---
 
 ## 📄 IntellJ TIP 🔍
