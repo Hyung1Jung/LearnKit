@@ -139,6 +139,7 @@
 * [Profile](https://junghyungil.tistory.com/159?category=892281)
 * [log4j vs Lockback vs log4j2, 프로젝트에 무엇을 적용하는게 좋을까?](https://junghyungil.tistory.com/160?category=892281)
 * [Log4j2의 Log Level과 성능 향상에 관하여](https://junghyungil.tistory.com/161?category=892281)
+* [opaque token을 사용하여 JWT 자체 만료시간 강제 무효화 하기](https://junghyungil.tistory.com/191)
 
 - 인프런, 스프링 핵심원리 기본편 정리
   - [DI, IOC, Bean, Context 등등](https://www.notion.so/2815624d66fa46f98aed3a9184523499)
@@ -253,7 +254,7 @@
 
 MSA(MicroService Architecture)
 - [MSA(MicroService Architecture)란 무엇인가?](https://junghyungil.tistory.com/188)
-
+- [Spring cloud 적용에 사용되는 컴포넌트 중 하나인 Eureka](https://junghyungil.tistory.com/193)
 
 Kafka
 - [Apache Kafka는 어떤 방식으로 동작할까?](https://junghyungil.tistory.com/190)
