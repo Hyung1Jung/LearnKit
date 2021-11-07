@@ -21,3 +21,6 @@ MSA(MicroService Architecture)
 
 Kafka
 - [Apache Kafka는 어떤 방식으로 동작할까?](https://junghyungil.tistory.com/190)
+
+k8s
+- [쿠버네티스(k8s) 서비스 메시 패턴의 구현체인 Istio란?](https://junghyungil.tistory.com/197)
