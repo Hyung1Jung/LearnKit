@@ -257,8 +257,12 @@ MSA(MicroService Architecture)
 - [Spring cloud 적용에 사용되는 컴포넌트 중 하나인 Eureka](https://junghyungil.tistory.com/193)
 - [MSA의 BFF 패턴, 외부 구성 저장소 패턴, 인증 인가 패턴이란?](https://junghyungil.tistory.com/194)
 
+
 Kafka
 - [Apache Kafka는 어떤 방식으로 동작할까?](https://junghyungil.tistory.com/190)
+
+k8s
+- [쿠버네티스(k8s) 서비스 메시 패턴의 구현체인 Istio란?](https://junghyungil.tistory.com/197)
 
 ---
 
