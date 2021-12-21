@@ -43,7 +43,8 @@
 [싱글톤 패턴은 객체가 단 1개만 생성되는 것을 보장할까? 및 자바에서 싱글톤을 구현하는 패턴들](https://junghyungil.tistory.com/150?category=892275)
 
 ### 쓰레드
-* [자바 병렬 프로그래밍 - 병렬 처리의 중요성](https://junghyungil.tistory.com/198)
+* [자바 병렬 프로그래밍 - 병렬 처리의 중요성 (1)](https://junghyungil.tistory.com/198)
+* [자바 병렬 프로그래밍 - 스레드 안전성(Thread Safe) (2)](https://junghyungil.tistory.com/200)
 * [쓰레드](https://junghyungil.tistory.com/68?category=892275)
 * [멀티 쓰레드](https://junghyungil.tistory.com/69?category=892275)
 * [쓰레드들에 대한 변수의 변경의 가시성을 보장하는 volatile 키워드](https://junghyungil.tistory.com/99?category=892275)
