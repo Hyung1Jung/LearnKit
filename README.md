@@ -16,6 +16,7 @@
 
 ### JVM 메모리 동작 관련 및 GC
 * [JVM 메모리 구조](https://junghyungil.tistory.com/94?category=892275)
+* [상수 풀(String Pool)은 GC가 될까?](https://junghyungil.tistory.com/210)
 * [Garbage collection(1)](https://junghyungil.tistory.com/8?category=892275)
 * [Garbage collection(2)](https://junghyungil.tistory.com/9?category=892275)
 * [시간 복잡도와 BiG-O 표기법](https://junghyungil.tistory.com/10?category=892275)
