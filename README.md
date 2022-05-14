@@ -144,6 +144,7 @@
 * [Log4j2의 Log Level과 성능 향상에 관하여](https://junghyungil.tistory.com/161?category=892281)
 * [opaque token을 사용하여 JWT 자체 만료시간 강제 무효화 하기](https://junghyungil.tistory.com/191)
 * [SMTP 메일 인증 시, 로컬에서는 잘 작동하는데 EC2에서는 왜 FAIL이 발생할까?](https://junghyungil.tistory.com/211)
+* [상품 주문 시, Pessimistic Lock으로 동시성 제어](https://junghyungil.tistory.com/212)
 
 - 인프런, 스프링 핵심원리 기본편 정리
   - [DI, IOC, Bean, Context 등등](https://www.notion.so/2815624d66fa46f98aed3a9184523499)
