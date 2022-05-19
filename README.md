@@ -122,6 +122,7 @@
   - [코틀린에서 빌더를 사용할 필요가 있을까?](https://junghyungil.tistory.com/184)
   - [유지보수하기 좋은 코드란? 및 확장성을 고려한 설계](https://junghyungil.tistory.com/158?category=953012)
   - [entity class에서 Id를 선언할 때, 생성자의 파라미터 순서 상 가장 밑으로 두는 것이 좋은 이유](https://junghyungil.tistory.com/205?category=953012)
+  - [가변성을 제한하라](https://junghyungil.tistory.com/214)
 ---
 
 ## 📄 Spring Framework 🔍
