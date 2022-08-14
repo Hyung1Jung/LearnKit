@@ -270,6 +270,7 @@ Kafka
 - [Apache Kafka는 어떤 방식으로 동작할까?](https://junghyungil.tistory.com/190)
 
 k8s
+- [kubernetis(쿠버네티스), 왜 사용할까요?](https://junghyungil.tistory.com/215)
 - [쿠버네티스(k8s) 서비스 메시 패턴의 구현체인 Istio란?](https://junghyungil.tistory.com/197)
 - [Docker에서 k8s Service mesh parttern 의 구현체인 Istio 설치](https://junghyungil.tistory.com/207)
 
